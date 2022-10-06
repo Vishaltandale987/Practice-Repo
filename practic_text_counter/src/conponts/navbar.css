@@ -1,0 +1,21 @@
+
+
+#text{
+    width: 10em;
+    height: 2em;
+}
+
+#text_vishal{
+    border: 1px solid black;
+}
+
+.logo{
+    /* margin-top: 1em; */
+    margin: 0.5em auto auto 0.5em;
+    width: 50px;
+
+}
+
+.btn_about{
+    
+}
