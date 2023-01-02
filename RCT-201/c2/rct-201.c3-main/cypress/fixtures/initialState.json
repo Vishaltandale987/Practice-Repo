@@ -1,0 +1,34 @@
+{
+  "auth": {
+    "loading": false,
+    "data": {
+      "token": "",
+      "isAuthenticated": false
+    },
+    "error": false
+  },
+  "product": {
+    "loading": false,
+    "error": false,
+    "data": []
+  },
+  "cart": {
+    "getCartItems": {
+      "loading": false,
+      "error": false
+    },
+    "addCartItem": {
+      "loading": false,
+      "error": false
+    },
+    "updateCartItem": {
+      "loading": false,
+      "error": false
+    },
+    "removeCartItem": {
+      "loading": false,
+      "error": false
+    },
+    "data": []
+  }
+}

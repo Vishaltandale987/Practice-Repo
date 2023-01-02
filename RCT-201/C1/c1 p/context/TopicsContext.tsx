@@ -12,7 +12,7 @@ type TopicsContextProps = {
 
 export const TopicsContext = createContext<TopicsContextProps>({
   topics: [],
-});2
+});
 
 const TopicsProviders = ({ children }: { children: React.ReactNode }) => {
   const [topics, setTopics] = useState<Topic[]>(initialTopics as Topic[]);

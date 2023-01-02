@@ -1,0 +1,22 @@
+[
+  {
+    "productId": 1,
+    "count": 44,
+    "id": 1
+  },
+  {
+    "productId": 2,
+    "count": 5,
+    "id": 2
+  },
+  {
+    "productId": 4,
+    "count": 1,
+    "id": 3
+  },
+  {
+    "productId": 3,
+    "count": 6,
+    "id": 4
+  }
+]
